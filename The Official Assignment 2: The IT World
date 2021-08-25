@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+      <meta charset="utf-8">
+      <title>Last Asssignment 2: The IT World</title>
+    </head>
+    <body>
+      <p>Course code and name: COSC2083 Intro to IT</p>
+      <p>Name: Duong Si Phu</p>
+      <p>ID : s3635198</p>
+      <h1>Course code and name: COSC2083 Intro to IT
+        <h1>1.Team Profile</h1>
+        <p>Team Name:
+          Expendables 4.
+
+The result of my personal traits said I am a Turbulent Logistician in the Myers-Briggs test. It said that I am an introvert, thinking and observant type and also stubborn, strict and judgmental. Moreover, the other test said i am the type of listening student
+
+In my potential team, I would like to work with one or two partners who can have debating skills to argue the problem within the assignment and other team members should be talented or hard-working and passionate about information technology as IT workers to ensure the quality of the submitted project. All of the team members need to be responsive, self-disciplined, and responsible with their part and entire assignment. By working together, these members can support each other in potential problems and they have their own independent arguments which is to improve the work quality.Also, these people help the working operation to figure out the most suitable solution and gains team working ability in supporting, communicating, and working performance.
+</p>
+<h1>2. Tools</h1>
+<p>For some unknown problems I can not upload my work on the Internet as a Website so I would take screenshots of my work and if you have time, you can take some time to guide me. Thank you very much.
+</p>
+<h1>3. Project Ideas</h1>
+<h2>Overview </h2>
+<p>I am currently a student from major logistics and supply chain management and also working in the freight transportation field. While evolving in the industry, I understand there is a significant problem causing shipment-inefficiency performance of truck companies - empty trucks on the way back. In the mid-term periods, I expect to see or evolve in the development of a platform that can solve the number of empty truck trips and create more value for many parties in the Vietnamese logistics network.
+</p>
+<h2> Motivation</h2>
+<p>The idea is to create an application that runs on mobile devices platforms and website pages that connect manufacturers - who need trucks to ship their freight and transportation companies that own trucks, tractors and also connect to evolving parties such as forwarders, clients, customs, etc for side paperwork and procedure. In detail, the app would be expected to connect logistics parties to serve specific demands in freight transportation with a high transparency level and on-time updating ability. The app would create a big community using it and could reduce the number of empty truck trips (Duy. T and Loc. H 2018 referred this percentage of trips was 70%). </p>
+<h2>Description </h2>
+<p>In detail, the business network would be developed on both mobile apps and browser websites to be convenient for everybody such as managers, drivers, manufacturers, and clients. The platform is expected to have the operation of other transportation connectors apps such as Grab, Baemin while those companies are C2C and B2C, my app is mainly B2B. The app would allow users to connect to other subscribed and qualified parties to seek suitable demands, suppliers, and documental parties. For example, a customer who is a manufacturer wants to transport their cargo, they need to submit their deal to the app and forwarders or truck companies can take the offer or negotiate for a suitable price. After the deal is taken by a forwarder agency or truck company, they need to submit the planned truck driver information such as driver name, phone number, the current location of the truck to the app and their client can monitor it. On the other hand, while negotiating, the customer also had to provide necessary information related to the cargo such as customs declaration status, loading status, time of shipment, time of ships cutting off, etc. After their shipment is completed, the transaction would be done and a record would be saved sent to them at the end of the month or the end of the debt period which is dependent on the negotiation. From the app perspective, the commission cost would be taken on subscription monthly for every granted and clarified company.
+
+  There are some logistics e-trading platforms working nowadays that have similar operations to my app, however, those are limited because of two main reasons, transparency and real-time updating information and worrying about cyber security. In the supply chain, the value of information is critical and must be frequently updated nearly every minute. However, most of the current companies - SMEs still working with single working platforms such as Zalo, Gmail, Drive which create inconvenience and lack of synchronization. This affects communication ability between parties that lead to giant mistakes because of wrong or unread information, changing in operational activities. Another problem in the industry is information security which constrains the development of logistics trading platforms. This segment of the logistics industry - B2B - is strict and needs a high demand for security protection and commitment from partners. This is important because of the sensitivity and variety of information that is related to the firm's information and the value of each freight trip. Moreover, cyber security with the current technology is under-trusted from the business perspective which is raised from many security breakdown cases from platforms or companies. Furthermore, it is not easy to persuade and gain businesses' awareness about trusting e-platforms and using them. The development of technology information is expected to contribute to the industry and change the way logistics operate.
+</p>
+<h2>Tools and Technologies </h2>
+<p>This app would use multiple information technologies to be safe and secure for customers such as Blockchain, GPS tracking system, cloud computing to be synchronized with companies’ ERP and cybersecurity and privacy systems. In detail, GPS systems are used to locate the status of trucks and cargo which inform managers about its location and other information while drivers can update their destination and incurred problems alongside with the journey. Then, Blockchain allows involved individuals and parties to transfer information with a high-security level by the decentralization trait. Besides, Blockchain can update information on time with higher correction levels because of informational confirmations by most parties in the supply chain.
+</p>
+<h2>Skills Required </h2>
+<p>Required skills, software, and hardware
+Technology using and adaptation.
+Software to connect the app to involving entities
+Software to manage the database
+Software to secure the stored database and transactional information
+Software to collect and updating information of the freight on time
+Hardware to store the database
+</p>
+<h2>Outcome </h2>
+<p>This app is expected to raise the trust from businesses to the logistics field and create more opportunities in cutting waste resources and lead to lean operation. By seeking freights on the way back to decrease the number of empty truck trips, this application will create more relationships between companies in the logistics industry and also decrease the inefficiency of operational costs. Further, the app can be the base for gaining trust in businesses by enhancing the security level, bringing transparency into the supply chain, and contributing to cutting down costs and partly saving the environment by reducing CO2 emissions.
+</p>
+<h1>
+4. Feedback
+</h1>
+<p>Overall, feedback from my relations supported my idea with some challenging questions about the scaling up ability and profits generated from the app. In my opinion, their questions are correct which makes me rethink about the size of the app and whether solving the problem for empty trucks is enough to grow. I think the app needed to be changed to connect the information flow from many departments to be successful rather than solving a small problem. </p>
+<h1>
+5. IT Technologies
+</h1>
+<h2>Internet of Things:</h2>
+<p>One of the base technologies that can enhance the capability of my app is dependent on the development of Internet of Things technology. According to Charles G.J, Jayson P.R, Jessie R.B & Elmer P.D 2019, to collect data for moving trucks including temperature, humidity level, location and security alert, those trucks need to be equipped with Internet-used devices to update data in real-time. The IoT system requires three main components to collect, monitor, and display real-time data to logistics involving users. Hence, this technology could cooperate with the Blockchain system to transfer information within the supply chain under a high level of trust and is uniquely inspected by the non-fungible token. At the moment, GPS technology is being used widely by Vietnamese businesses and in the next three years, I hope not only trucks are connected to the Internet but also all container owners such as ONE, Hyundai, Wan Hai integrate this technology for their containers as the Maersk is using (this information is collected from my relationship).
+
+When this app is in operation, it can influence the way businesses seek containers for empty trucks and also be the beginning of digital evolution for logistics. In the mid-term periods, companies that own trucks are allowed access to huge potential orders to solve the problem of empty trucks and also create more relationships with other businesses and industries. Instead of looking for freight trips manually via the truck operators or posts on Facebook which are less successful, managers can deal with more potential customers by using my app. The more users of this application, the bigger and stronger, and more potential of the community can be created.
+From my perspective, this app helps me to collect and examine real-time data of freight trips easier and be alerted better whenever a change is created within the operation. For the further future, the logistics industry will be improved by applying an integration of information technologies including IoT, AI, 5G which can be a new evolution of autonomous trucks which could reduce labor force and operation cost.
+</p>
+<h2>Blockchain:</h2>
+<p>Another important information technology used in my project idea is Blockchain and its related technologies. By connecting from the IoT, the data will be processed, granted by many entities in the network, and create a highly secure and credible information chain. By the NFT technology, the data would not be fake and blockchain can transport the data through the chain with transparency for all parties which avoids wrong information or unauthorized data input. By now, Blockchain technology is quite new and has many undetected problems. With the development of other technologies and Blockchain itself, it should be tested more until developers get a deeper understanding of technologies and their combination with others. When the Blockchain is used in the supply chain, the level of trust will be gained and managers can improve their decision-making process due to the transparency of data. This can increase the waste of time in the logistics field which is a combination of many parties and operations from warehouse to the seaport and from suppliers to maritime transporters.
+
+</p>
+<h1> 6. IT Work.</h1>
+<p>Because my ideal job in assignment 1 is quite traditional and the main job requirements are not information technology. Hence, I decided to choose five different videos in the whole supply chain departments including warehousing, procurement, transportation, retailing…
+</p>
+<h2>1) First video link:</h2>
+<p>
+  https://www.youtube.com/watch?v=4DKrcpa8Z_E
+a.In this case, I would work on the robot system which is operated by 4G technology to avoid accidents and require charging the mobile battery for each robot.
+b. As the manager in the warehouse, my work is to communicate with the robot's operators to catch up with the work performance and also monitor packaging workers for quality of scanned code and conditions of goods
+c. Inside the warehouse for maintenance, managing the product flows in the operation room, and going around checking other warehousing conditions.
+d. Plenty of fields needed to be checked related to the storage condition and product quality.
+</p>
+<h2>2) Second video link:</h2>
+<p>https://www.youtube.com/watch?v=s6LI-oh7RbY
+a.The video is talking about mobile technology and wearables used in warehouses activities. Thus, the warehouse employees will use these technologies to scan the code for each packaging output and input and transport them to correct storing spots.
+b.Interact with managers, co-workers, and other people from other departments and also truck drivers
+c.Most of the time in the warehouse between selves of products and trucks which ship products to check-in and check-in.
+d.Lack of people interacting and under-privileged working environments in the warehouse
+</p>
+<h2>3) Third video link:</h2>
+<p>https://www.youtube.com/watch?v=bOHc9vD5hdo
+a.This video focuses more on what warehouse employees do with packaging, picking, check-in, and storing. Their work is mostly supported by an app that consists of whole warehousing activities. Under the role of warehousing employee, their need to scan every information about the products, stick code for it and transport it to the correct spots
+b.Interact with managers, co-workers, and other people from other departments and also truck drivers.
+c.In the warehouse every day.
+d.Boring of repeating work and harder working conditions.
+</p>
+<h2>4) Fourth video link: </h2>
+<p>https://www.youtube.com/watch?v=64XNa8Ka4GU
+a.In the video, the IoT technology was described and analyzed the characteristics and applications in the world of logistics, especially, the video told about the challenges which are mainly the responsibility of IT professionals. In more detail, IoT is the technology that requires a mass source of information to collect, process and store. Hence, the role of IT professionals is critical in the software where information can be taken and processed and the security problems relating to protecting it from hackers, terrorists, cybercriminals and other people who want to collect it.
+b.Co-workers, managers, users and investors of the company
+c.Labs, working spaces, and on the field to collects feedback and catch the situation
+d.The high volume of collecting and processing data.
+</p>
+<h2>5) Fifth video link:</h2>
+<p>https://www.youtube.com/watch?v=Mr71jrkzWq8
+a.The scenario of the fifth video, it is talking about the future of fashion retailing when AR is applied in shops to enhance customers' experience and raise the conversion rate. I would assume I am the worker who takes place in demand forecasting of customers, my work in the logistics field is collecting, analyzing the trends and customers behavior and providing them to the AR IT professional to update for devices.
+b.I would work mostly with customers by surveys, data collecting from parties such as Google, social media to catch the phenomenon of fashion in a specific region or country.
+c.Mostly in the office to gather information
+d.The speed of fashion trends, the plenty of information to collect and the ability to predict and analyze customer's behaviors.
+</p>
+<h1>7. References</h1>
+<p>Cyzerg Warehouse Technology 2019, Warehouse Technology: Mobile and Wearables, Youtube, 7 February, Cyzerg Warehouse Technology, viewed 22 August 2021, <https://www.youtube.com/watch?v=s6LI-oh7RbY>.</p>
+
+<p>Islam, S 2017, 'Empty truck trips problem at container terminals: A review of causes, benefits, constraints and solution approaches', Business Process Management Journal , April, p. 26.
+https://www.researchgate.net/publication/315895286_Empty_truck_trips_problem_at_container_terminals_A_review_of_causes_benefits_constraints_and_solution_approaches/link/59d4b00aaca2721f436fe993/download</p>
+
+<p>Jason Hogeboom 2016, Internet of Things & Logistics, Youtube, 1 February, Jason Hogeboom, viewed 20 August 2021, <https://www.youtube.com/watch?v=64XNa8Ka4GU>.</p>
+
+<p>Juarizo, GC 2019, 'IoT-Based End-to-End Monitoring of Logistics and Tracking of Truck Vehicles Using Arduino Microcontroller', World Congress on Engineering , July.</p>
+
+<p>KinectforWindows 2013, Kinect for Windows Retail Clothing Scenario Video, Youtube, 12 October, KinectforWindows, viewed 24 August 2021, <https://www.youtube.com/watch?v=Mr71jrkzWq8>.</p>
+
+<p>Tran, Huy, D 2018, 'Van tai gia cao vi 70% chieu ve "chay rong".', Baogiaothong, 28 March, viewed 22 August 2021, <https://www.baogiaothong.vn/van-tai-gia-cao-vi-70-chieu-ve-chay-rong-d249399.html>.</p>
+
+<p>Tech Insider 2018, Inside A Warehouse Where Thousands Of Robots Pack Groceries,Youtube, 10 May,Tech Insider  viewed 23 August 2021, <https://www.youtube.com/watch?v=4DKrcpa8Z_E>.</p>
+
+
+<p>Warehousing & Distribution Tips By LaceUp 2020, How A Real Warehouse Management System Works, Youtube, 19 November, Warehousing & Distribution Tips By LaceUp 2020, viewed 21 August 2021, <https://www.youtube.com/watch?v=bOHc9vD5hdo>.
+</p>
+
+  </body>
+
+</html>
